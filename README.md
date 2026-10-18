@@ -7,4 +7,5 @@ Per poder executar la web localment (en un servidor de desenvolupament) s'han d'
    
 - http-server (per "crear" el servidor local)
    
-Enllaç per accedir a la pàgina: projecte-any-passat.firebaseapp.com
+## Enllaç per accedir a la pàgina:
+projecte-any-passat.firebaseapp.com
